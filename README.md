@@ -1,1 +1,3 @@
-# Multitier-Backend-Structure-.Net-6
+# Multitier Backend Structure .Net 6
+
+- Used Northwind db

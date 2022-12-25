@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "jRAY2eZ4FfI7I66ii4MugcCfMdajkqGsLr8fFer7nn2dsVUDocmf5nsrksHL5l1aeJ8GVlMJxk1IS+VhBZGIpA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\HFati\\source\\repos\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project DataAccess is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project DataAccess supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "DataAccess",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Business is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Business supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Business",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    },
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Entities is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Entities supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Entities",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
